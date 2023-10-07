@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-color: darkolivegreen;
+    padding: 10px;
+    /* overflow: hidden; */
+}
+
+h1 {
+    text-align: center;
+}
+
+#dice1 {
+    float: left;
+    width: 50%;
+    text-align: center;
+    font-size: larger;
+}
+
+#dice2 {
+    float: left;
+    width: 50%;
+    text-align: center;
+    font-size: larger;
+}
